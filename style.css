@@ -1,0 +1,28 @@
+body {
+    background-color: #120f0f;
+    font-family: Arial, sans-serif;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 250px
+  }
+
+  #counter {
+    font-size: 24px;
+    margin: 20px;
+    color: white;
+  }
+
+  #incrementBtn, #decrementBtn {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+
+  #incrementBtn:hover, #decrementBtn:hover{
+    background-color: red;
+    color: aliceblue;
+    border-radius: 20px;
+
+  }
